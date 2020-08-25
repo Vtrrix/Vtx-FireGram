@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Vtx-FireGram/static/css/main.2dd894f1.chunk.css",
-    "main.js": "/Vtx-FireGram/static/js/main.0bb9b4d3.chunk.js",
-    "main.js.map": "/Vtx-FireGram/static/js/main.0bb9b4d3.chunk.js.map",
+    "main.css": "/Vtx-FireGram/static/css/main.6d479cfe.chunk.css",
+    "main.js": "/Vtx-FireGram/static/js/main.c7e66526.chunk.js",
+    "main.js.map": "/Vtx-FireGram/static/js/main.c7e66526.chunk.js.map",
     "runtime-main.js": "/Vtx-FireGram/static/js/runtime-main.ab745c9d.js",
     "runtime-main.js.map": "/Vtx-FireGram/static/js/runtime-main.ab745c9d.js.map",
     "static/js/2.1442d3b8.chunk.js": "/Vtx-FireGram/static/js/2.1442d3b8.chunk.js",
     "static/js/2.1442d3b8.chunk.js.map": "/Vtx-FireGram/static/js/2.1442d3b8.chunk.js.map",
     "index.html": "/Vtx-FireGram/index.html",
-    "precache-manifest.320f442d98873118c5a83217a4b58ac8.js": "/Vtx-FireGram/precache-manifest.320f442d98873118c5a83217a4b58ac8.js",
+    "precache-manifest.44b7200ed51035d4844b28e5d5ef5f55.js": "/Vtx-FireGram/precache-manifest.44b7200ed51035d4844b28e5d5ef5f55.js",
     "service-worker.js": "/Vtx-FireGram/service-worker.js",
-    "static/css/main.2dd894f1.chunk.css.map": "/Vtx-FireGram/static/css/main.2dd894f1.chunk.css.map",
+    "static/css/main.6d479cfe.chunk.css.map": "/Vtx-FireGram/static/css/main.6d479cfe.chunk.css.map",
     "static/js/2.1442d3b8.chunk.js.LICENSE.txt": "/Vtx-FireGram/static/js/2.1442d3b8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ab745c9d.js",
     "static/js/2.1442d3b8.chunk.js",
-    "static/css/main.2dd894f1.chunk.css",
-    "static/js/main.0bb9b4d3.chunk.js"
+    "static/css/main.6d479cfe.chunk.css",
+    "static/js/main.c7e66526.chunk.js"
   ]
 }
