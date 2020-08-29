@@ -1,6 +1,8 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { projectFirestore } from "./../firebase/config";
+import deleteImg from "../img/delete.png";
+import downloadImg from "../img/download.png";
 
 const Modal = ({
   selectedImg,
@@ -38,11 +40,11 @@ const Modal = ({
     >
       <div className="imgOptions">
         <div className="delete" onClick={handleDelete}>
-          <img src={"./assets/img/delete.png"} alt="delete" />
+          <img src={deleteImg} alt="delete" />
         </div>
         <div className="download">
           <a href={selectedImg} download>
-            <img src={"./assets/img/delete.png"} alt="download" />
+            <img src={downloadImg} alt="download" />
           </a>
         </div>
       </div>
